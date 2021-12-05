@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\classsecond\classecond\classecond\obj\Debug\netcoreapp3.1\classecond.csprojAssemblyReference.cache
+C:\Users\user\Desktop\classsecond\classecond\classecond\obj\Debug\netcoreapp3.1\classecond.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\classsecond\classecond\classecond\obj\Debug\netcoreapp3.1\classecond.AssemblyInfo.cs
+C:\Users\user\Desktop\classsecond\classecond\classecond\obj\Debug\netcoreapp3.1\classecond.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\classsecond\classecond\classecond\bin\Debug\netcoreapp3.1\classecond.exe
+C:\Users\user\Desktop\classsecond\classecond\classecond\bin\Debug\netcoreapp3.1\classecond.deps.json
+C:\Users\user\Desktop\classsecond\classecond\classecond\bin\Debug\netcoreapp3.1\classecond.runtimeconfig.json
+C:\Users\user\Desktop\classsecond\classecond\classecond\bin\Debug\netcoreapp3.1\classecond.runtimeconfig.dev.json
+C:\Users\user\Desktop\classsecond\classecond\classecond\bin\Debug\netcoreapp3.1\classecond.dll
+C:\Users\user\Desktop\classsecond\classecond\classecond\bin\Debug\netcoreapp3.1\classecond.pdb
+C:\Users\user\Desktop\classsecond\classecond\classecond\obj\Debug\netcoreapp3.1\classecond.dll
+C:\Users\user\Desktop\classsecond\classecond\classecond\obj\Debug\netcoreapp3.1\classecond.pdb
+C:\Users\user\Desktop\classsecond\classecond\classecond\obj\Debug\netcoreapp3.1\classecond.genruntimeconfig.cache
